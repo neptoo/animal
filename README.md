@@ -1,5 +1,5 @@
-# animal
-demo
+# Which face is the animal's ?
+
 #### 原生JS实现一个多选一的交互小游戏
 ##### 效果预览
  ![image](https://github.com/neptoo/animal/blob/master/image/animal.gif)
